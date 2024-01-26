@@ -1,6 +1,12 @@
-#Tic Tac Toe
+# Tic-Tac-Toe
 
-**A basic Tic Tac Toe game built using HTML/JavaScript/CSS. No dependencies.**
+Tic-Tac-Toe game is built in Html CSS and JavaSript'
+
+
+This was a website built to showcase my technical skills, web design skills.
+
+The site is live <a href="https://himanshuranjan977.github.io/Mario-Masters/" target="_blank">here</a>
+
 
 ##How to get started
 
@@ -10,3 +16,17 @@
 - Winner: Player A
 - Winner: Player B
 - Draw
+
+## Project timeline and technologies used
+
+Build a Responsive website in a weak to showcase the following:
+* My technical skill set
+* My web design skill set
+* My projects
+
+### Technologies Used
+
+* HTML5
+* CSS
+* JavaScript
+* Git
