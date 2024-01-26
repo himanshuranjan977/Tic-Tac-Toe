@@ -5,7 +5,7 @@ Tic-Tac-Toe game is built in Html CSS and JavaSript'
 
 This was a website built to showcase my technical skills, web design skills.
 
-The site is live <a href="https://himanshuranjan977.github.io/Mario-Masters/" target="_blank">here</a>
+The site is live <a href="https://himanshuranjan977.github.io/Tic-Tac-Toe/" target="_blank">here</a>
 
 
 ##How to get started
